@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    height: 100vh;
+    background-color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+input {
+    width: 500px;
+    height: 30px;
+    border-radius: 100px;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+}
+.recherche{
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;}
+
